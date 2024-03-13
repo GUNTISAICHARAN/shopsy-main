@@ -1,0 +1,805 @@
+
+{
+    "kidswear": [
+      {
+        "id": 0,
+        "name": "Kids' Dinosaur Print T-shirt",
+        "category": "T-shirts",
+        "price": 14.99,
+        "rating": 4.5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu3dGXKHoa5nIKmQFmy-StgBnN2rQ42Xj2sA&usqp=CAU"
+      },
+      {
+        "id": 1,
+        "name": "Girls' Floral Sundress",
+        "category": "Dresses",
+        "price": 24.99,
+        "rating": 4.8,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Boys' Striped Polo Shirt",
+        "category": "Polos",
+        "price": 19.99,
+        "rating": 4.2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTskA1TzN-rx-VDRkRWihmpFQUpPE7bJPR_Lg&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "name": "Girls' Denim Overall Dress",
+        "category": "Dresses",
+        "price": 29.99,
+        "rating": 4.6,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSif0m00u-DmCSMzy826ohfOiU_fIClWjuqg&usqp=CAU"
+      },
+      {
+        "id": 4,
+        "name": "Boys' Sporty Jogging Pants",
+        "category": "Pants",
+        "price": 21.99,
+        "rating": 4.3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9rA5tpkGgAGQODVc5yrS7OHWFxbR7e8m6w&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "name": "Kids' Rainbow Hoodie",
+        "category": "Hoodies",
+        "price": 34.99,
+        "rating": 4.7,
+        "image": "https://th.bing.com/th/id/OIP.eSmDZHxZ0bvcYWERpI0JnwHaHa?w=199&h=199&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+      },
+      {
+        "id": 6,
+        "name": "Boys' Camouflage Shorts",
+        "category": "Shorts",
+        "price": 16.99,
+        "rating": 4.0,
+        "image": "https://th.bing.com/th/id/OIP.kNSAz71GudIlfivkD38h5AHaHa?w=190&h=190&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+      },
+      {
+        "id": 7,
+        "name": "Girls' Sparkle Ballet Flats",
+        "category": "Shoes",
+        "price": 26.99,
+        "rating": 4.9,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSbvec4ZrjBw9qiD5G5KCQO1XUvDsH3NWZaw&usqp=CAU"
+      },
+      {
+        "id": 8,
+        "name": "Kids' BaseballCap",
+        "category": "Accessories",
+        "price": 9.99,
+        "rating": 3.8,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-boEj4HD6NHLOc0UP1sTXHO_LlcBOlDkgw&usqp=CAU"
+      },
+      {
+        "id": 9,
+        "name": "Girls' Unicorn Print Leggings",
+        "category": "Leggings",
+        "price": 18.99,
+        "rating": 4.4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslKUTzn5ATvDDfoMw2PdsamQHRoJS9PycVQ&usqp=CAU"
+      },
+      {
+        "id": 10,
+        "name": "Boys' Space Print T-shirt",
+        "category": "T-shirts",
+        "price": 15.99,
+        "rating": 4.6,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFKnXA6S-TpQQtDsC9RCpbUvxvBRTl1oGW_Q&usqp=CAU"
+      },
+      {
+        "id": 11,
+        "name": "Girls' Ruffle Skirt",
+        "category": "Skirts",
+        "price": 22.99,
+        "rating": 4.3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRjZxHqFaRmNH2C0ib9dSXc7zMDli_Pf5-vg&usqp=CAU"
+      },
+      {
+        "id": 12,
+        "name": "Boys' Color Block Hoodie",
+        "category": "Hoodies",
+        "price": 29.99,
+        "rating": 4.8,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaEDbjM-WTT4I9LvcYiNHEVzmxjJHX0JU-A&usqp=CAU"
+      },
+      {
+        "id": 13,
+        "name": "Girls' Glitter Sneakers",
+        "category": "Shoes",
+        "price": 18.99,
+        "rating": 4.5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUB5j4U04NG8Q1K-BrTj0Qzrmi2XAU8JaxZw&usqp=CAU0"
+      },
+      {
+        "id": 14,
+        "name": "Kids' Printed Backpack",
+        "category": "Accessories",
+        "price": 12.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4LcBD4AOCa8ovnpW6km4dqvZdrx1qe6HyXA&usqp=CAU"      
+    },
+      {
+        "id": 15,
+        "name": "Boys' Cargo Shorts",
+        "category": "Shorts",
+        "price": 17.99,
+        "rating": 4.7,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMAlKfXV_GFysgeysi9jQdsmxMXc0PcYYA2A&usqp=CAU"
+      },
+      {
+        "id": 16,
+        "name": "Girls' Unicorn Print Hoodie",
+        "category": "Hoodies",
+        "price": 26.99,
+        "rating": 4.9,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwcj9gHWo2f1PfD81Ph8Oq9q7MG5g9wgSRA&usqp=CAU"
+      },
+      {
+        "id": 17,
+        "name": "Boys' Graphic Print Backpack",
+        "category": "Accessories",
+        "price": 14.99,
+        "rating": 4.4,
+        "image":  "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Girls' Striped Leggings",
+        "category": "Leggings",
+        "price": 19.99,
+        "rating": 4.6,
+        "image":  "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Boys' Sporty Baseball Cap",
+        "category": "Accessories",
+        "price": 11.99,
+        "rating": 4.1,
+        "image":  "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Girls' Tie-Dye Dress",
+        "category": "Dresses",
+        "price": 27.99,
+        "rating": 4.5,
+        "image":  "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 21,
+        "name": "Boys' Soccer Print T-shirt",
+        "category": "T-shirts",
+        "price": 16.99,
+        "rating": 4.2,
+        "image":  "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Girls' Sequin Jacket",
+        "category": "Jackets",
+        "price": 32.99,
+        "rating": 4.8,
+        "image":  "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 23,
+        "name": "Boys' Checked Shirt",
+        "category": "Shirts",
+        "price": 23.99,
+        "rating": 4.3,
+        "image":  "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 24,
+        "name": "Girls' Butterfly Print Backpack",
+        "category": "Accessories",
+        "price": 14.99,
+        "rating": 4.7,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Boys' Denim Jeans",
+        "category": "Pants",
+        "price": 26.99,
+        "rating": 4.9,
+        "image":  "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Girls' Polka Dot Skirt",
+        "category": "Skirts",
+        "price": 18.99,
+        "rating": 4.4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_jz70LRHPpj4nH_udXPm2RjHsdqezxGCroQ&usqp=CAU0"
+      },
+      {
+        "id": 27,
+        "name": "Boys' Graphic Print Hoodie",
+        "category": "Hoodies",
+        "price": 29.99,
+        "rating": 4.6,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwhLLw1P_l1KL1oHS8rgTrZo_4i2e2EubTg&usqp=CAU"
+      },
+      {
+        "id": 28,
+        "name": "Girls' Floral Headband",
+        "category": "Accessories",
+        "price": 8.99,
+        "rating": 4.1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnA5Mb7nT1SG1vog3UL1ihjg1-QhiKs1QsmA&usqp=CAU"
+      },
+      {
+        "id": 29,
+        "name": "Boys' Striped Swim Shorts",
+        "category": "Swimwear",
+        "price": 20.99,
+        "rating": 4.5,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnA5Mb7nT1SG1vog3UL1ihjg1-QhiKs1QsmA&usqp=CAU"
+      },
+      {
+        "id": 30,
+        "name": "Girls' Frilly Socks",
+        "category": "Socks",
+        "price": 7.99,
+        "rating": 4.3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnA5Mb7nT1SG1vog3UL1ihjg1-QhiKs1QsmA&usqp=CAU"
+      },
+      {
+        "id": 31,
+        "name": "Boys' Colorful Sunglasses",
+        "category": "Accessories",
+        "price": 12.99,
+        "rating": 4.7,
+        "image": "https://i.pinimg.com/originals/bc/47/82/bc47823beddd9d833bd2761e8401e87e.jpg"
+      },
+      {
+        "id": 32,
+        "name": "Girls' Butterfly Print Leggings",
+        "category": "Leggings",
+        "price": 19.99,
+        "rating": 4.9,
+        "image": "https://i.pinimg.com/originals/bc/47/82/bc47823beddd9d833bd2761e8401e87e.jpg"
+      },
+      {
+        "id": 33,
+        "name": "Boys' Camo Print Backpack",
+        "category": "Accessories",
+        "price": 14.99,
+        "rating": 4.2,
+        "image": "https://i.pinimg.com/originals/bc/47/82/bc47823beddd9d833bd2761e8401e87e.jpg"
+      },
+      {
+        "id": 34,
+        "name": "Girls' Glittery Sneakers",
+        "category": "Shoes",
+        "price": 23.99,
+        "rating": 4.5,
+        "image": "https://i.pinimg.com/originals/bc/47/82/bc47823beddd9d833bd2761e8401e87e.jpg"
+      },
+      {
+        "id": 35,
+        "name": "Boys' Striped Beanie",
+        "category": "Accessories",
+        "price": 9.99,
+        "rating": 4.0,
+        "image": "https://i.pinimg.com/originals/bc/47/82/bc47823beddd9d833bd2761e8401e87e.jpg"
+      },
+      {
+        "id": 36,
+        "name": "Girls' Unicorn Print Onesie",
+        "category": "Sleepwear",
+        "price": 32.99,
+        "rating": 4.8,
+        "image": "https://i.pinimg.com/originals/bc/47/82/bc47823beddd9d833bd2761e8401e87e.jpg"
+      },
+      {
+        "id": 37,
+        "name": "Boys' Checked Shirt",
+        "category": "Shirts",
+        "price": 21.99,
+        "rating": 4.4,
+        "image":"https://i.pinimg.com/originals/bc/47/82/bc47823beddd9d833bd2761e8401e87e.jpg"
+      },
+      {
+        "id": 38,
+        "name": "Girls' Sequin Headband",
+        "category": "Accessories",
+        "price": 8.99,
+        "rating": 4.6,
+        "image": "https://i.pinimg.com/originals/bc/47/82/bc47823beddd9d833bd2761e8401e87e.jpg"
+      },
+      {
+        "id": 39,
+        "name": "Boys' Space Print Backpack",
+        "category": "Accessories",
+        "price": 14.99,
+        "rating": 4.1,
+        "image": "https://i.pinimg.com/originals/bc/47/82/bc47823beddd9d833bd2761e8401e87e.jpg"
+      },
+      {
+        "id": 40,
+        "name": "Girls' Tie-Dye Leggings",
+        "category": "Leggings",
+        "price": 18.99,
+        "rating": 4.3,
+        "image": "https://i.pinimg.com/originals/bc/47/82/bc47823beddd9d833bd2761e8401e87e.jpg"
+      },
+      {
+        "id": 41,
+        "name": "Boys' Graphic Print T-shirt",
+        "category": "T-shirts",
+        "price": 16.99,
+        "rating": 4.5,
+        "image":"https://i.pinimg.com/originals/bc/47/82/bc47823beddd9d833bd2761e8401e87e.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Girls' Ruffle Sleeve Dress",
+        "category": "Dresses",
+        "price": 26.99,
+        "rating": 4.7,
+        "image":"https://i.pinimg.com/originals/bc/47/82/bc47823beddd9d833bd2761e8401e87e.jpg"
+      },
+      {
+        "id": 43,
+        "name": "Boys' Striped Swim Trunks",
+        "category": "Swimwear",
+        "price": 19.99,
+        "rating": 4.4,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 44,
+        "name": "Girls' Floral Backpack",
+        "category": "Accessories",
+        "price": 14.99,
+        "rating": 4.8,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 45,
+        "name": "Boys' Cargo Jogger Pants",
+        "category": "Pants",
+        "price": 24.99,
+        "rating": 4.2,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 46,
+        "name": "Girls' Sparkle Tutu",
+        "category": "Skirts",
+        "price": 15.99,
+        "rating": 4.9,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 47,
+        "name": "Boys' Baseball Cap",
+        "category": "Accessories",
+        "price": 11.99,
+        "rating": 4.6,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 48,
+        "name": "Girls' Unicorn Print Sweatshirt",
+        "category": "Sweatshirts",
+        "price": 28.99,
+        "rating": 4.3,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 49,
+        "name": "Boys' Camouflage Jacket",
+        "category": "Jackets",
+        "price": 32.99,
+        "rating": 4.7,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 50,
+        "name": "Girls' Polka Dot Leggings",
+        "category": "Leggings",
+        "price": 18.99,
+        "rating": 4.5,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 51,
+        "name": "Boys' Sporty Hooded Jacket",
+        "category": "Jackets",
+        "price": 35.99,
+        "rating": 4.2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7WRylBP5kj6iBLIg2ILXBrJUMbfTFbUddA&usqp=CAU"
+      },
+      {
+        "id": 52,
+        "name": "Girls' Glitter Ballet Flats",
+        "category": "Shoes",
+        "price": 22.99,
+        "rating": 4.8,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7WRylBP5kj6iBLIg2ILXBrJUMbfTFbUddA&usqp=CAU"
+      },
+      {
+        "id": 53,
+        "name": "Boys' Graphic Print Sweatshirt",
+        "category": "Sweatshirts",
+        "price": 28.99,
+        "rating": 4.6,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7WRylBP5kj6iBLIg2ILXBrJUMbfTFbUddA&usqp=CAU"
+      },
+      {
+        "id": 54,
+        "name": "Girls' Denim Shorts",
+        "category": "Shorts",
+        "price": 16.99,
+        "rating": 4.4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7WRylBP5kj6iBLIg2ILXBrJUMbfTFbUddA&usqp=CAU"
+      },
+      {
+        "id": 55,
+        "name": "Boys' Striped Long Sleeve Shirt",
+        "category": "Shirts",
+        "price": 23.99,
+        "rating": 4.9,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7WRylBP5kj6iBLIg2ILXBrJUMbfTFbUddA&usqp=CAU"
+      },
+      {
+        "id": 56,
+        "name": "Girls' Floral Sandals",
+        "category": "Shoes",
+        "price": 19.99,
+        "rating": 4.7,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7WRylBP5kj6iBLIg2ILXBrJUMbfTFbUddA&usqp=CAU"
+      },
+      {
+        "id": 57,
+        "name": "Boys' Camo Print Joggers",
+        "category": "Pants",
+        "price": 26.99,
+        "rating": 4.3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7WRylBP5kj6iBLIg2ILXBrJUMbfTFbUddA&usqp=CAU"
+      },
+      {
+        "id": 58,
+        "name": "Girls' Sequin Skirt",
+        "category": "Skirts",
+        "price": 17.99,
+        "rating": 4.6,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7WRylBP5kj6iBLIg2ILXBrJUMbfTFbUddA&usqp=CAU"
+      },
+      {
+        "id": 59,
+        "name": "Boys' Sporty Sneakers",
+        "category": "Shoes",
+        "price": 29.99,
+        "rating": 4.2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7WRylBP5kj6iBLIg2ILXBrJUMbfTFbUddA&usqp=CAU"
+      },
+      {
+        "id": 60,
+        "name": "Girls' Striped Sweater",
+        "category": "Sweaters",
+        "price": 24.99,
+        "rating": 4.8,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 61,
+        "name": "Boys' Graphic Print Swim Trunks",
+        "category": "Swimwear",
+        "price": 18.99,
+        "rating":  4.4,
+        "image":"https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 62,
+        "name": "Girls' Glitter Hair Clips",
+        "category": "Accessories",
+        "price": 6.99,
+        "rating": 4.9,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 63,
+        "name": "Boys' Denim Vest",
+        "category": "Jackets",
+        "price": 22.99,
+        "rating": 4.5,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 64,
+        "name": "Girls' Ruffle Collar Blouse",
+        "category": "Shirts",
+        "price": 16.99,
+        "rating": 4.2,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 65,
+        "name": "Boys' Striped Belt",
+        "category": "Accessories",
+        "price": 9.99,
+        "rating": 4.6,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 66,
+        "name": "Girls' Star Print Leggings",
+        "category": "Leggings",
+        "price": 14.99,
+        "rating": 4.3,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 67,
+        "name": "Boys' Sporty Baseball Jersey",
+        "category": "Shirts",
+        "price": 19.99,
+        "rating": 4.7,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 68,
+        "name": "Girls' Unicorn Print Sweater",
+        "category": "Sweaters",
+        "price": 28.99,
+        "rating": 4.9,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 69,
+        "name": "Boys' Colorful Socks",
+        "category": "Socks",
+        "price": 7.99,
+        "rating": 4.4,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 70,
+        "name": "Girls' Floral Romper",
+        "category": "Jumpsuits",
+        "price": 26.99,
+        "rating": 4.8,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 71,
+        "name": "Boys' Graphic Print Belt",
+        "category": "Accessories",
+        "price": 11.99,
+        "rating": 4.2,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 72,
+        "name": "Girls' Sequin Sneakers",
+        "category": "Shoes",
+        "price": 22.99,
+        "rating": 4.7,
+        "image":"https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 73,
+        "name": "Boys' Camouflage Cargo Pants",
+        "category": "Pants",
+        "price": 24.99,
+        "rating": 4.5,
+        "image":"https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 74,
+        "name": "Girls' Ruffle Trim Cardigan",
+        "category": "Sweaters",
+        "price": 19.99,
+        "rating": 4.3,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 75,
+        "name": "Boys' Striped Bowtie",
+        "category": "Accessories",
+        "price": 8.99,
+        "rating": 4.9,
+        "image":"https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 76,
+        "name": "Girls' Unicorn Print Pajamas",
+        "category": "Sleepwear",
+        "price": 32.99,
+        "rating": 4.6,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 77,
+        "name": "Boys' Checked Bowtie",
+        "category": "Accessories",
+        "price": 9.99,
+        "rating": 4.4,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 78,
+        "name": "Girls' Striped Skirt",
+        "category": "Skirts",
+        "price": 15.99,
+        "rating": 4.8,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 79,
+        "name": "Boys' Space Print Hoodie",
+        "category": "Hoodies",
+        "price": 28.99,
+        "rating": 4.2,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 80,
+        "name": "Girls' Glittery Belt",
+        "category": "Accessories",
+        "price": 11.99,
+        "rating": 4.7,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 81,
+        "name": "Boys' Graphic Print Baseball Cap",
+        "category": "Accessories",
+        "price": 14.99,
+        "rating": 4.4,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 82,
+        "name": "Girls' Floral Print Sunglasses",
+        "category": "Accessories",
+        "price": 12.99,
+        "rating": 4.8,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 83,
+        "name": "Boys' Camouflage Print Shirt",
+        "category": "Shirts",
+        "price": 23.99,
+        "rating": 4.5,
+        "image":"https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 84,
+        "name": "Girls' Star Print Dress",
+        "category": "Dresses",
+        "price": 20.99,
+        "rating": 4.2,
+        "image":"https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 85,
+        "name": "Boys' Striped Sneakers",
+        "category": "Shoes",
+        "price": 22.99,
+        "rating": 4.6,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 86,
+        "name": "Girls' Sequin Purse",
+        "category": "Accessories",
+        "price": 13.99,
+        "rating": 4.3,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 87,
+        "name": "Boys' Sporty Baseball Glove",
+        "category": "Accessories",
+        "price": 16.99,
+        "rating": 4.7,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 88,
+        "name": "Girls' Glittery Hairband",
+        "category": "Accessories",
+        "price": 7.99,
+        "rating": 4.9,
+        "image": "https://m.media-amazon.com/images/I/61hXk9duPsL._AC_UY1100_.jpg"
+      },
+      {
+        "id": 89,
+        "name": "Boys' Graphic Print Belt",
+        "category": "Accessories",
+        "price": 11.99,
+        "rating": 4.4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VCrdQ3YmvTv3_S4H80B5FgTG0toUDC0_Mw&usqp=CAU"
+      },
+      {
+        "id": 90,
+        "name": "Girls' Floral Print Sunglasses",
+        "category": "Accessories",
+        "price": 12.99,
+        "rating": 4.8,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VCrdQ3YmvTv3_S4H80B5FgTG0toUDC0_Mw&usqp=CAU"
+      },
+      {
+        "id": 91,
+        "name": "Boys' Camouflage Print Shirt",
+        "category": "Shirts",
+        "price": 23.99,
+        "rating": 4.5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VCrdQ3YmvTv3_S4H80B5FgTG0toUDC0_Mw&usqp=CAU"
+      },
+      {
+        "id": 92,
+        "name": "Girls' Star Print Dress",
+        "category": "Dresses",
+        "price": 20.99,
+        "rating": 4.2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VCrdQ3YmvTv3_S4H80B5FgTG0toUDC0_Mw&usqp=CAU"
+      },
+      {
+        "id": 93,
+        "name": "Boys' Striped Sneakers",
+        "category": "Shoes",
+        "price": 22.99,
+        "rating": 4.6,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VCrdQ3YmvTv3_S4H80B5FgTG0toUDC0_Mw&usqp=CAU"
+      },
+      {
+        "id": 94,
+        "name": "Girls' Sequin Purse",
+        "category": "Accessories",
+        "price": 13.99,
+        "rating": 4.3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VCrdQ3YmvTv3_S4H80B5FgTG0toUDC0_Mw&usqp=CAU"
+      },
+      {
+        "id": 95,
+        "name": "Boys' Sporty Baseball Glove",
+        "category": "Accessories",
+        "price": 16.99,
+        "rating": 4.7,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VCrdQ3YmvTv3_S4H80B5FgTG0toUDC0_Mw&usqp=CAU"
+      },
+      {
+        "id": 96,
+        "name": "Girls' Glittery Hairband",
+        "category": "Accessories",
+        "price": 7.99,
+        "rating": 4.9,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VCrdQ3YmvTv3_S4H80B5FgTG0toUDC0_Mw&usqp=CAU"
+      },
+      {
+        "id": 97,
+        "name": "Boys' Graphic Print Belt",
+        "category": "Accessories",
+        "price": 11.99,
+        "rating": 4.4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VCrdQ3YmvTv3_S4H80B5FgTG0toUDC0_Mw&usqp=CAU"
+      },
+      {
+        "id": 98,
+        "name": "Girls' Floral Print Sunglasses",
+        "category": "Accessories",
+        "price": 12.99,
+        "rating": 4.8,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VCrdQ3YmvTv3_S4H80B5FgTG0toUDC0_Mw&usqp=CAU"
+      },
+      {
+        "id": 99,
+        "name": "Boys' Camouflage Print Shirt",
+        "category": "Shirts",
+        "price": 23.99,
+        "rating": 4.5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VCrdQ3YmvTv3_S4H80B5FgTG0toUDC0_Mw&usqp=CAU"
+      }
+    ]
+  }
+  

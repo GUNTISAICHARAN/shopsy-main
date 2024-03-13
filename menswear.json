@@ -1,0 +1,484 @@
+{
+    "menswear": [
+        {
+            "id": 1,
+            "name": "Classic Denim Jeans",
+            "category": "Bottoms",
+            "price": 49.99,
+            "rating": 4.0,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYpeZ7yuiAP9CrTueIg8R-qoRtYnnf68CLg&usqp=CAU"
+        },
+        {
+            "id": 2,
+            "name": "Slim Fit Chinos",
+            "category": "Bottoms",
+            "price": 39.99,
+            "rating": 4.2,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoIt1xzFAEw08F1JDDyyWu9eWYugzuaumuw&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "name": "Casual Cotton Shirt",
+            "category": "Tops",
+            "price": 29.99,
+            "rating": 4.5,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcJyIZcp5H3q-y2UDSq2x7zw8B7PUAApgjmQ&usqp=CAU"
+        },
+        {
+            "id": 4,
+            "name": "V-Neck Sweater",
+            "category": "Sweaters",
+            "price": 45.99,
+            "rating": 4.1,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O81-Q5h3I6b7bo-cRZtIbEsnK7tPi2qGSA&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "name": "Leather Jacket",
+            "category": "Jackets",
+            "price": 89.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUbXFXkHZhIJZgB0EWeePEN2xyPPKIRExzA&usqp=CAU"
+        },
+        {
+            "id": 6,
+            "name": "Sports Hoodie",
+            "category": "Hoodies",
+            "price": 34.99,
+            "rating": 4.3,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_YlcoDC1f_pn8028MdwIkXFR8ed_YVWlnw&usqp=CAU"
+        },
+        {
+            "id": 7,
+            "name": "Formal Dress Shirt",
+            "category": "Shirts",
+            "price": 27.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP4Sp3XguEGuvGiKfQhygmZCAHgpdYfvtaxA&usqp=CAU"
+        },
+        {
+            "id": 8,
+            "name": "Cargo Shorts",
+            "category": "Shorts",
+            "price": 19.99,
+            "rating": 3.9,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2r1uPhLr2H3OQ3G0OnZ-mOLtU42u-vbqpQ&usqp=CAU"
+        },
+        {
+            "id": 9,
+            "name": "Polo T-shirt",
+            "category": "T-shirts",
+            "price": 22.99,
+            "rating": 4.4,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP4Sp3XguEGuvGiKfQhygmZCAHgpdYfvtaxA&usqp=CAU"
+        },
+        {
+            "id": 10,
+            "name": "Track Pants",
+            "category": "Athletic Wear",
+            "price": 29.99,
+            "rating": 4.2,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8VVSRqXKOERywQj-02lRpP9szjk-FIZwBpg&usqp=CAU"
+        },
+        {
+            "id": 11,
+            "name": "Classic Blazer",
+            "category": "Blazers",
+            "price": 79.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LlDeMa1JJqkwgiqJmkzXNWTvQzrB7mkGWw&usqp=CAU"
+        },
+        {
+            "id": 12,
+            "name": "Denim Jacket",
+            "category": "Jackets",
+            "price": 64.99,
+            "rating": 4.5,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLl8MD-EFOWMP7kXpfnLsSxJAMd5q-u5gV5A&usqp=CAU"
+        },
+        {
+            "id": 13,
+            "name": "Crewneck Sweatshirt",
+            "category": "Sweatshirts",
+            "price": 37.99,
+            "rating": 4.0,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR72BXlKOG9gd1ZRHHCNBFLwEA-CMtkTuoMQ&usqp=CAU"
+        },
+        {
+            "id": 14,
+            "name": "Striped Shirt",
+            "category": "Shirts",
+            "price": 25.99,
+            "rating": 4.3,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMJZkR4JYWxDZ1eGJHb-FnM9V36awFLiO1HA&usqp=CAU"
+        },
+        {
+            "id": 15,
+            "name": "Casual Shorts",
+            "category": "Shorts",
+            "price": 18.99,
+            "rating": 4.1,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUSCYNnif26fjnlue8F5w2TBuTdHE_IRRlvg&usqp=CAU"
+        },
+        {
+            "id": 16,
+            "name": "Hiking Boots",
+            "category": "Shoes",
+            "price": 59.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcf0f3hCk2xg8XXuXmXthoKS58Engp5pfrug&usqp=CAU"
+        },
+        {
+            "id": 17,
+            "name": "Classic Fedora Hat",
+            "category": "Accessories",
+            "price": 14.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQz24GYDUd0n-q1jBbON6z6KsOsZufPTgDQg&usqp=CAU"
+        },
+        {
+            "id": 18,
+            "name": "Printed Socks",
+            "category": "Socks",
+            "price": 6.99,
+            "rating": 4.2,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeP7-HmkaVaYv2XC0bEZEP_aGslFMHMOO8XC3-VHze8hDPH86_iu9BKzJrXH0Yb82xnU0&usqp=CAU"
+        },
+        {
+            "id": 19,
+            "name": "Workout Tank Top",
+            "category": "Activewear",
+            "price": 15.99,
+            "rating": 4.5,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrt1waV9HWA1QtcAvGgwCluiZE_fWbhgRKLg&usqp=CAU"
+        },
+        {
+            "id": 20,
+            "name": "Rugged Denim Shirt",
+            "category": "Shirts",
+            "price": 32.99,
+            "rating": 4.4,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4BX4W82QpyhHyDvErx2NFoakjuqBi9844Jw&usqp=CAU"
+        },
+        {
+            "id": 21,
+            "name": "Classic Watch",
+            "category": "Accessories",
+            "price": 89.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8VVSRqXKOERywQj-02lRpP9szjk-FIZwBpg&usqp=CAU"
+        },
+        {
+            "id": 22,
+            "name": "Linen Shorts",
+            "category": "Shorts",
+            "price": 21.99,
+            "rating": 4.0,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSzKwj-DTW5JCfqRMVvyaD4CaF_R-9xXVoQ&usqp=CAU"
+        },
+        {
+            "id": 23,
+            "name": "Suede Loafers",
+            "category": "Shoes",
+            "price": 45.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSzKwj-DTW5JCfqRMVvyaD4CaF_R-9xXVoQ&usqp=CAU"
+        },
+        {
+            "id": 24,
+            "name": "Printed Necktie",
+            "category": "Accessories",
+            "price": 12.99,
+            "rating": 4.3,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSzKwj-DTW5JCfqRMVvyaD4CaF_R-9xXVoQ&usqp=CAU"
+        },
+        {
+            "id": 25,
+            "name": "Outdoor Jacket",
+            "category": "Jackets",
+            "price": 74.99,
+            "rating": 4.5,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSzKwj-DTW5JCfqRMVvyaD4CaF_R-9xXVoQ&usqp=CAU"
+        },
+        {
+            "id": 26,
+            "name": "Classic Belt",
+            "category": "Accessories",
+            "price": 19.99,
+            "rating": 4.2,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSzKwj-DTW5JCfqRMVvyaD4CaF_R-9xXVoQ&usqp=CAU"
+        },
+        {
+            "id": 27,
+            "name": "Running Shoes",
+            "category": "Shoes",
+            "price": 54.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSzKwj-DTW5JCfqRMVvyaD4CaF_R-9xXVoQ&usqp=CAU"
+        },
+        {
+            "id": 28,
+            "name": "Checked Shirt",
+            "category": "Shirts",
+            "price": 27.99,
+            "rating": 4.4,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSzKwj-DTW5JCfqRMVvyaD4CaF_R-9xXVoQ&usqp=CAU"
+        },
+        {
+            "id": 29,
+            "name": "Denim Shorts",
+            "category": "Shorts",
+            "price": 24.99,
+            "rating": 4.1,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSzKwj-DTW5JCfqRMVvyaD4CaF_R-9xXVoQ&usqp=CAU"
+        },
+        {
+            "id": 30,
+            "name": "Casual Slip-Ons",
+            "category": "Shoes",
+            "price": 32.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSzKwj-DTW5JCfqRMVvyaD4CaF_R-9xXVoQ&usqp=CAU"
+        },
+        {
+            "id": 31,
+            "name": "Cotton Sweater",
+            "category": "Sweaters",
+            "price": 39.99,
+            "rating": 4.3,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHzf1LvltwCuqPYJJOGJChAvoFdyGlw2ypQ&usqp=CAU"
+        },
+        {
+            "id": 32,
+            "name": "Leather Gloves",
+            "category": "Accessories",
+            "price": 16.99,
+            "rating": 4.5,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHzf1LvltwCuqPYJJOGJChAvoFdyGlw2ypQ&usqp=CAU"
+        },
+        {
+            "id": 33,
+            "name": "Graphic Print T-shirt",
+            "category": "T-shirts",
+            "price": 19.99,
+            "rating": 4.0,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHzf1LvltwCuqPYJJOGJChAvoFdyGlw2ypQ&usqp=CAU"
+        },
+        {
+            "id": 34,
+            "name": "Formal Trousers",
+            "category": "Bottoms",
+            "price": 44.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHzf1LvltwCuqPYJJOGJChAvoFdyGlw2ypQ&usqp=CAU"
+        },
+        {
+            "id": 35,
+            "name": "Wool Sweater",
+            "category": "Sweaters",
+            "price": 55.99,
+            "rating": 4.2,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHzf1LvltwCuqPYJJOGJChAvoFdyGlw2ypQ&usqp=CAU"
+        },
+        {
+            "id": 36,
+            "name": "Canvas Backpack",
+            "category": "Bags",
+            "price": 29.99,
+            "rating": 4.4,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHzf1LvltwCuqPYJJOGJChAvoFdyGlw2ypQ&usqp=CAU"
+        },
+        {
+            "id": 37,
+            "name": "Sunglasses",
+            "category": "Accessories",
+            "price": 18.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHzf1LvltwCuqPYJJOGJChAvoFdyGlw2ypQ&usqp=CAU"
+        },
+        {
+            "id": 38,
+            "name": "Chino Shorts",
+            "category": "Shorts",
+            "price": 26.99,
+            "rating": 4.5,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHzf1LvltwCuqPYJJOGJChAvoFdyGlw2ypQ&usqp=CAU"
+        },
+        {
+            "id": 39,
+            "name": "Printed Scarf",
+            "category": "Accessories",
+            "price": 14.99,
+            "rating": 4.1,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHzf1LvltwCuqPYJJOGJChAvoFdyGlw2ypQ&usqp=CAU"
+        },
+        {
+            "id": 40,
+            "name": "Casual Sneakers",
+            "category": "Shoes",
+            "price": 37.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0NGo1baTNPY16TzO82Ay9UEM_C4xKcGm8IHhnhHHHGTsLpluX5z3_w2RIe6YeIGWfgU&usqp=CAU"
+        },
+        {
+            "id": 41,
+            "name": "Striped Polo",
+            "category": "T-shirts",
+            "price": 23.99,
+            "rating": 4.3,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8VVSRqXKOERywQj-02lRpP9szjk-FIZwBpg&usqp=CAU"
+        },
+        {
+            "id": 42,
+            "name": "Trench Coat",
+            "category": "Jackets",
+            "price": 69.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQIjCnlx5uSexmqX8jg7BoFOehJVumBis3Q&usqp=CAU"
+        },
+        {
+            "id": 43,
+            "name": "Slim Fit Shirt",
+            "category": "Shirts",
+            "price": 31.99,
+            "rating": 4.2,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQIjCnlx5uSexmqX8jg7BoFOehJVumBis3Q&usqp=CAU"
+        },
+        {
+            "id": 44,
+            "name": "Printed Backpack",
+            "category": "Bags",
+            "price": 34.99,
+            "rating": 4.5,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQIjCnlx5uSexmqX8jg7BoFOehJVumBis3Q&usqp=CAU"
+        },
+        {
+            "id": 45,
+            "name": "V-Neck T-shirt",
+            "category": "T-shirts",
+            "price": 17.99,
+            "rating": 4.0,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQIjCnlx5uSexmqX8jg7BoFOehJVumBis3Q&usqp=CAU"
+        },
+        {
+            "id": 46,
+            "name": "Knit Beanie",
+            "category": "Accessories",
+            "price": 12.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQIjCnlx5uSexmqX8jg7BoFOehJVumBis3Q&usqp=CAU"
+        },
+        {
+            "id": 47,
+            "name": "Dress Shoes",
+            "category": "Shoes",
+            "price": 59.99,
+            "rating": 4.3,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQIjCnlx5uSexmqX8jg7BoFOehJVumBis3Q&usqp=CAU"
+        },
+        {
+            "id": 48,
+            "name": "Casual Backpack",
+            "category": "Bags",
+            "price": 22.99,
+            "rating": 4.1,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQIjCnlx5uSexmqX8jg7BoFOehJVumBis3Q&usqp=CAU"
+        },
+        {
+            "id": 49,
+            "name": "Casual Belt",
+            "category": "Accessories",
+            "price": 15.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQIjCnlx5uSexmqX8jg7BoFOehJVumBis3Q&usqp=CAU"
+        },
+        {
+            "id": 50,
+            "name": "Classic Trench",
+            "category": "Jackets",
+            "price": 74.99,
+            "rating": 4.5,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOArVbEmqDtIUTP4GHoScXiAJZ2admcggXyA&usqp=CAU"
+        },
+        {
+            "id": 51,
+            "name": "Graphic Hoodie",
+            "category": "Hoodies",
+            "price": 36.99,
+            "rating": 4.2,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOArVbEmqDtIUTP4GHoScXiAJZ2admcggXyA&usqp=CAU"
+        },
+        {
+            "id": 52,
+            "name": "Slim Fit Jeans",
+            "category": "Bottoms",
+            "price": 42.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOArVbEmqDtIUTP4GHoScXiAJZ2admcggXyA&usqp=CAU"
+        },
+        {
+            "id": 53,
+            "name": "Plaid Shirt",
+            "category": "Shirts",
+            "price": 28.99,
+            "rating": 4.4,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOArVbEmqDtIUTP4GHoScXiAJZ2admcggXyA&usqp=CAU"
+        },
+        {
+            "id": 54,
+            "name": "Casual Loafers",
+            "category": "Shoes",
+            "price": 47.99,
+            "rating": 4.1,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDb2jbQ8mdQ6jfOjTLHBhukC1Fo5h5van8w&usqp=CAU"
+        },
+        {
+            "id": 55,
+            "name": "Printed Hoodie",
+            "category": "Hoodies",
+            "price": 39.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDb2jbQ8mdQ6jfOjTLHBhukC1Fo5h5van8w&usqp=CAU"
+        },
+        {
+            "id": 56,
+            "name": "Denim Skirt",
+            "category": "Bottoms",
+            "price": 31.99,
+            "rating": 4.3,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDb2jbQ8mdQ6jfOjTLHBhukC1Fo5h5van8w&usqp=CAU"
+        },
+        {
+            "id": 57,
+            "name": "Casual Blouse",
+            "category": "Tops",
+            "price": 26.99,
+            "rating": 4.0,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDb2jbQ8mdQ6jfOjTLHBhukC1Fo5h5van8w&usqp=CAU"
+        },
+        {
+            "id": 58,
+            "name": "Ankle Boots",
+            "category": "Shoes",
+            "price": 55.99,
+            "rating": 4.5,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDb2jbQ8mdQ6jfOjTLHBhukC1Fo5h5van8w&usqp=CAU"
+        },
+        {
+            "id": 59,
+            "name": "Printed Leggings",
+            "category": "Athletic Wear",
+            "price": 21.99,
+            "rating": 4.2,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDb2jbQ8mdQ6jfOjTLHBhukC1Fo5h5van8w&usqp=CAU"
+        },
+        {
+            "id": 60,
+            "name": "Hiking Pants",
+            "category": "Athletic Wear",
+            "price": 34.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDb2jbQ8mdQ6jfOjTLHBhukC1Fo5h5van8w&usqp=CAU"
+        }
+    ]
+}

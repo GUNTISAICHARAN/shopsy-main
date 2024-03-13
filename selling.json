@@ -1,0 +1,484 @@
+{
+    "selling": [
+        {
+            "id": 1,
+            "name": "Best-Selling Smartphone",
+            "category": "Smartphones",
+            "price": 699.99,
+            "rating": 4.9,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6D0Cb_XEhvMibYnCN2UHjONYrL9X58GNXw&usqp=CAU"
+        },
+        {
+            "id": 2,
+            "name": "Top-Rated Laptop",
+            "category": "Laptops",
+            "price": 1299.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80AqnmlCOtGMC2m8Dqo57ANym6JNpX3mldw&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "name": "Ultra HD Smart TV",
+            "category": "Televisions",
+            "price": 1199.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaopaP_G4rMif0_S_kkLqwnc3ZErFlnajaZg&usqp=CAU"
+        },
+        {
+            "id": 4,
+            "name": "Wireless Noise-Canceling Headphones",
+            "category": "Headphones",
+            "price": 299.99,
+            "rating": 4.9,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51XjFIClLDbwF-TP94-442vxYbtwuhJRd4g&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "name": "Professional DSLR Camera",
+            "category": "Cameras",
+            "price": 1499.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQmPm5tKVXq763AWPCc674dSu3ZhsolVdDQ&usqp=CAU"
+        },
+        {
+            "id": 6,
+            "name": "Premium Smartwatch",
+            "category": "Wearables",
+            "price": 199.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4zJq7aFlxCbvTXRWVZXHd-FyotMmegZnXgQ&usqp=CAU"
+        },
+        {
+            "id": 7,
+            "name": "Top-Performing Gaming Console",
+            "category": "Gaming",
+            "price": 449.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKeTueoj5SF4GOrqBvjiWZV33BNARmVu5VQ&usqp=CAU"
+        },
+        {
+            "id": 8,
+            "name": "High-End Wireless Speaker",
+            "category": "Speakers",
+            "price": 199.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRzzLv1RmS-OM26sMDhp5-RQSk2hwP6IQ3A&usqp=CAU"
+        },
+        {
+            "id": 9,
+            "name": "Flagship Tablet",
+            "category": "Tablets",
+            "price": 699.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmAg2n2FST9cWwD06_wAIBb9_vOndAXFeezQ&usqp=CAU"
+        },
+        {
+            "id": 10,
+            "name": "Premium Noise-Canceling Earbuds",
+            "category": "Earbuds",
+            "price": 249.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnfAglcvTooAbzVK-GmK2_dgwVCjVQZTAyYw&usqp=CAU"
+        },
+        {
+            "id": 11,
+            "name": "Immersive VR Headset",
+            "category": "Virtual Reality",
+            "price": 299.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61NSLXfSasArIVALz4uWmeUGRdohYAD16nw&usqp=CAU"
+        },
+        {
+            "id": 12,
+            "name": "Advanced Home Security Camera",
+            "category": "Security",
+            "price": 129.99,
+            "rating": 4.9,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlOQEE2StyMO0a8oVJS3Wt-YuwwIWWXIz0UQ&usqp=CAU"
+        },
+        {
+            "id": 13,
+            "name": "High-Speed Wireless Router",
+            "category": "Networking",
+            "price": 89.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjhMC0o9uUc3ZaAYeAAgx0xzuYN0BYPoJ8wA&usqp=CAU"
+        },
+        {
+            "id": 14,
+            "name": "Fast-Charging Power Bank",
+            "category": "Accessories",
+            "price": 49.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRvXI-eeu7CNeM6F5d0vRmaLShbEOkMFazg&usqp=CAU"
+        },
+        {
+            "id": 15,
+            "name": "Smart Thermostat",
+            "category": "Smart Home",
+            "price": 149.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4wT7g0uYW1pL1TSe1UvRUt-hsR8i-pEbhMQ&usqp=CAU"
+        },
+        {
+            "id": 16,
+            "name": "Gaming Laptop with RGB Lighting",
+            "category": "Gaming Laptops",
+            "price": 1599.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH59lhYjcL0Z3RqWo3b3lKhf2lMxDYgKsLIA&usqp=CAU"
+        },
+        {
+            "id": 17,
+            "name": "High-End Fitness Tracker",
+            "category": "Wearables",
+            "price": 99.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnxPhOLCvz7NPx1FO7Y6B_3kHSY1uvbl8Ew&usqp=CAU"
+        },
+        {
+            "id": 18,
+            "name": "Mechanical Gaming Keyboard",
+            "category": "Accessories",
+            "price": 79.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymGaCFwBRu5WnJ5_c2qA-Gr5UHQTjGS2awQ&usqp=CAU"
+        },
+        {
+            "id": 19,
+            "name": "Premium Home Theater System",
+            "category": "Audio Systems",
+            "price": 599.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4alildVtI0atetCiFbgIZuHPCxTww-Sa01A&usqp=CAU"
+        },
+        {
+            "id": 20,
+            "name": "In-Ear Monitors with Hi-Fi Audio",
+            "category": "Earbuds",
+            "price": 129.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsSkV6ysxHKqvYUiIhnxTiE32eQMCH5vZRvQ&usqp=CAU"
+        },
+        {
+            "id": 21,
+            "name": "Digital Drawing Tablet for Professionals",
+            "category": "Tablets",
+            "price": 299.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_YK4XB-pkR8z43gwpt2EKfe3SdWsJOil-Zg&usqp=CAU"
+        },
+        {
+            "id": 22,
+            "name": "Smart Home Hub with Voice Assistant",
+            "category": "Smart Home",
+            "price": 99.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE7pncYL5MN5jvjyfBKtj7yAQ_Akp8_kIMQQ&usqp=CAU"
+        },
+        {
+            "id": 23,
+            "name": "Top-of-the-Line Graphics Card",
+            "category": "Computer Components",
+            "price": 799.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd61xi76pyc4E5QukW0cMv6LgYZPEOxXyqQw&usqp=CAU"
+        },
+        {
+            "id": 24,
+            "name": "Wireless Charging Pad with Multiple Coils",
+            "category": "Accessories",
+            "price": 39.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzsRrajvtIu4hz4jHdbRaQT7oYNTpJPCGhw&usqp=CAU"
+        },
+        {
+            "id": 25,
+            "name": "Compact Mini Projector",
+            "category": "Projectors",
+            "price": 149.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ef8dCi5_XohmFQNiu23UOSkRVpqLdMd3aA&usqp=CAU"
+        },
+        {
+            "id": 26,
+            "name": "Portable External SSD",
+            "category": "Storage",
+            "price": 119.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRheRaWMVU6g5XNBRXWdneH0RwF8i4FCIzuBQ&usqp=CAU"
+        },
+        {
+            "id": 27,
+            "name": "Curved 4K Gaming Monitor",
+            "category": "Monitors",
+            "price": 499.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 28,
+            "name": "High-Precision Gaming Mouse",
+            "category": "Gaming Accessories",
+            "price": 69.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 29,
+            "name": "Wireless Noise Cancelling Headphones",
+            "category": "Headphones",
+            "price": 199.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 30,
+            "name": "Compact Digital Camera for Travel",
+            "category": "Cameras",
+            "price": 399.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 31,
+            "name": "Smart Doorbell with Facial Recognition",
+            "category": "Security",
+            "price": 179.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 32,
+            "name": "Wireless Gaming Controller with Customizable Buttons",
+            "category": "Gaming Accessories",
+            "price": 89.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 33,
+            "name": "Solar-Powered Charger for Outdoor Enthusiasts",
+            "category": "Accessories",
+            "price": 79.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 34,
+            "name": "Digital Voice Recorder with Noise Reduction",
+            "category": "Audio",
+            "price": 59.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 35,
+            "name": "RGB Mechanical Keyboard for Gaming Enthusiasts",
+            "category": "Computer Accessories",
+            "price": 89.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 36,
+            "name": "Bluetooth Earbuds with Long Battery Life",
+            "category": "Earbuds",
+            "price": 79.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 37,
+            "name": "Smart Refrigerator with Touchscreen Display",
+            "category": "Appliances",
+            "price": 1999.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 38,
+            "name": "Wireless Gaming Headset with Surround Sound",
+            "category": "Gaming Headsets",
+            "price": 129.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 39,
+            "name": "Fitness Smartwatch with GPS Tracking",
+            "category": "Wearables",
+            "price": 149.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDEiBcBadrgyaaNdJ2rItcY5TbxUgKTD3BQ&usqp=CAU"
+        },
+        {
+            "id": 40,
+            "name": "Bluetooth Soundbar with Immersive Audio",
+            "category": "Speakers",
+            "price": 109.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQDnagPl3IUV5di47prHiUqDtcjnpWvQFlw&usqp=CAU"
+        },
+        {
+            "id": 41,
+            "name": "Advanced Drone with 4K Camera",
+            "category": "Drones",
+            "price": 599.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQDnagPl3IUV5di47prHiUqDtcjnpWvQFlw&usqp=CAU"
+        },
+        {
+            "id": 42,
+            "name": "Smart Ceiling Fan with Adjustable Speeds",
+            "category": "Smart Home",
+            "price": 149.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQDnagPl3IUV5di47prHiUqDtcjnpWvQFlw&usqp=CAU"
+        },
+        {
+            "id": 43,
+            "name": "Ergonomic Gaming Chair for Extended Comfort",
+            "category": "Gaming Furniture",
+            "price": 249.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQDnagPl3IUV5di47prHiUqDtcjnpWvQFlw&usqp=CAU"
+        },
+        {
+            "id": 44,
+            "name": "Wi-Fi Range Extender for Improved Connectivity",
+            "category": "Networking",
+            "price": 39.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQDnagPl3IUV5di47prHiUqDtcjnpWvQFlw&usqp=CAU"
+        },
+        {
+            "id": 45,
+            "name": "Compact Laser Printer for Home Offices",
+            "category": "Printers",
+            "price": 119.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQDnagPl3IUV5di47prHiUqDtcjnpWvQFlw&usqp=CAU"
+        },
+        {
+            "id": 46,
+            "name": "Smart Coffee Maker with Programmable Features",
+            "category": "Appliances",
+            "price": 79.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQDnagPl3IUV5di47prHiUqDtcjnpWvQFlw&usqp=CAU"
+        },
+        {
+            "id": 47,
+            "name": "Ultra-Wide Gaming Monitor with High Refresh Rate",
+            "category": "Monitors",
+            "price": 599.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQDnagPl3IUV5di47prHiUqDtcjnpWvQFlw&usqp=CAU"
+        },
+        {
+            "id": 48,
+            "name": "Wireless Charging Stand with Fast Charging",
+            "category": "Accessories",
+            "price": 29.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQDnagPl3IUV5di47prHiUqDtcjnpWvQFlw&usqp=CAU"
+        },
+        {
+            "id": 49,
+            "name": "Waterproof Bluetooth Speaker for Outdoor Adventures",
+            "category": "Speakers",
+            "price": 49.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQDnagPl3IUV5di47prHiUqDtcjnpWvQFlw&usqp=CAU"
+        },
+        {
+            "id": 50,
+            "name": "Smart Door Lock with Keyless Entry",
+            "category": "Smart Home",
+            "price": 129.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQDnagPl3IUV5di47prHiUqDtcjnpWvQFlw&usqp=CAU"
+        },
+        {
+            "id": 51,
+            "name": "Gaming Keyboard with RGB Backlighting",
+            "category": "Gaming Accessories",
+            "price": 79.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIufwPh6VN3jVeYbS4MCZv4tutrSIW6x5DA&usqp=CAU"
+        },
+        {
+            "id": 52,
+            "name": "Smart Desk Lamp with Adjustable Brightness",
+            "category": "Lighting",
+            "price": 39.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIufwPh6VN3jVeYbS4MCZv4tutrSIW6x5DA&usqp=CAU"
+        },
+        {
+            "id": 53,
+            "name": "Ultra-Thin Laptop with High-Performance Specifications",
+            "category": "Laptops",
+            "price": 1099.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIufwPh6VN3jVeYbS4MCZv4tutrSIW6x5DA&usqp=CAU"
+        },
+        {
+            "id": 54,
+            "name": "Bluetooth Car Kit for Hands-Free Communication",
+            "category": "Car Accessories",
+            "price": 29.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIufwPh6VN3jVeYbS4MCZv4tutrSIW6x5DA&usqp=CAU"
+        },
+        {
+            "id": 55,
+            "name": "Security Camera System with Remote Monitoring",
+            "category": "Security",
+            "price": 349.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIufwPh6VN3jVeYbS4MCZv4tutrSIW6x5DA&usqp=CAU"
+        },
+        {
+            "id": 56,
+            "name": "RGB Gaming Mousepad for Enhanced Gaming Experience",
+            "category": "Gaming Accessories",
+            "price": 24.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIufwPh6VN3jVeYbS4MCZv4tutrSIW6x5DA&usqp=CAU"
+        },
+        {
+            "id": 57,
+            "name": "Foldable Electric Scooter for Convenient Transportation",
+            "category": "Electronics",
+            "price": 299.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIufwPh6VN3jVeYbS4MCZv4tutrSIW6x5DA&usqp=CAU"
+        },
+        {
+            "id": 58,
+            "name": "USB-C Docking Station for Seamless Connectivity",
+            "category": "Accessories",
+            "price": 89.99,
+            "rating": 4.6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIufwPh6VN3jVeYbS4MCZv4tutrSIW6x5DA&usqp=CAU"
+        },
+        {
+            "id": 59,
+            "name": "Home Theater Projector for Cinematic Entertainment",
+            "category": "Projectors",
+            "price": 449.99,
+            "rating": 4.8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIufwPh6VN3jVeYbS4MCZv4tutrSIW6x5DA&usqp=CAU"
+        },
+        {
+            "id": 60,
+            "name": "Smart Refrigerator with Advanced Features",
+            "category": "Appliances",
+            "price": 1999.99,
+            "rating": 4.7,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIufwPh6VN3jVeYbS4MCZv4tutrSIW6x5DA&usqp=CAU"
+        }
+    ]
+}

@@ -1,0 +1,423 @@
+
+{
+    "products": [
+      {
+        "id": 0,
+        "name": "Men's Classic Denim Jacket",
+        "category": "Men's Jackets",
+        "price": 69.99,
+        "rating": 4.8,
+        "image": "https://th.bing.com/th/id/OIP.lkmguzUB_JFRlktxgYGtQwHaJb?w=186&h=238&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 1,
+        "name": "Men's Classic Denim Jacket",
+        "category": "Men's Jackets",
+        "price": 69.99,
+        "rating": 4.8,
+        "image": "https://th.bing.com/th/id/OIP.lkmguzUB_JFRlktxgYGtQwHaJb?w=186&h=238&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 2,
+        "name": "Women's Floral Print Sundress",
+        "category": "Women's Dresses",
+        "price": 49.99,
+        "rating": 4.5,
+        "image": "https://th.bing.com/th/id/OIP.uECnVWnhcHmqjLinohK4gQHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 3,
+        "name": "Unisex Vintage High-Top Sneakers",
+        "category": "Footwear",
+        "price": 89.99,
+        "rating": 4.7,
+        "image": "https://th.bing.com/th/id/OIP.hPN9a9j7EbK8ZRXqumJUzQHaGD?w=248&h=203&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 4,
+        "name": "Kids' Cartoon Print T-Shirt",
+        "category": "Kids' Clothing",
+        "price": 19.99,
+        "rating": 4.9,
+        "image": "https://th.bing.com/th/id/OIP.aMNKKLXtA7VaM2Fb_YH0UAHaHa?w=186&h=186&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 5,
+        "name": "Women's Slim Fit Jeans",
+        "category": "Women's Jeans",
+        "price": 59.99,
+        "rating": 4.6,
+        "image": "https://th.bing.com/th/id/OIP.86wV7HH1LOkrC1Mfu3d7YwHaJo?w=186&h=242&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 6,
+        "name": "Men's Casual Striped Polo Shirt",
+        "category": "Men's Shirts",
+        "price": 34.99,
+        "rating": 4.2,
+        "image": "https://th.bing.com/th/id/OIP.NhLphETH3aiPPp31vRsfcwHaI2?w=173&h=208&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 7,
+        "name": "Women's Elegant Lace Blouse",
+        "category": "Women's Blouses",
+        "price": 54.99,
+        "rating": 4.4,
+        "image": "https://th.bing.com/th/id/OIP.ztehZCrK6cTRfknkEBHTAAHaKH?w=156&h=214&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 8,
+        "name": "Sports Water Bottle",
+        "category": "Accessories",
+        "price": 9.99,
+        "rating": 4.0,
+        "image": "https://th.bing.com/th/id/OIP.phB73VxMhlEz36LX4prAYQHaHa?w=186&h=186&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 9,
+        "name": "Men's Running Shoes",
+        "category": "Footwear",
+        "price": 79.99,
+        "rating": 4.8,
+        "image": "https://th.bing.com/th/id/OIP.4mWw-P8aUNYoAsvEWhH6PgHaFS?w=337&h=195&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 10,
+        "name": "Women's Winter Coat",
+        "category": "Women's Outerwear",
+        "price": 129.99,
+        "rating": 4.7,
+        "image": "https://th.bing.com/th/id/OIP.AIfJu7CEzn5RuzWL6ksNQAHaKq?w=186&h=267&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 11,
+        "name": "Men's Leather Wallet",
+        "category": "Accessories",
+        "price": 29.99,
+        "rating": 4.6,
+        "image": "https://th.bing.com/th/id/OIP.bEz1v2sL5kYrdtF2RP09_AHaJ4?w=160&h=213&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 12,
+        "name": "Women's Striped Maxi Dress",
+        "category": "Women's Dresses",
+        "price": 69.99,
+        "rating": 4.5,
+        "image": "https://th.bing.com/th/id/OIP.0B6K_eYhhIJTzdlsYTwSsQHaKu?w=186&h=270&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 13,
+        "name": "Kids' Colorful Backpack",
+        "category": "Kids' Accessories",
+        "price": 19.99,
+        "rating": 4.9,
+        "image": "https://th.bing.com/th/id/OIP.8809IKY_O2z6fkbLOspklQHaHs?w=204&h=211&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 14,
+        "name": "Men's Formal Dress Shirt",
+        "category": "Men's Shirts",
+        "price": 44.99,
+        "rating": 4.3,
+        "image": "https://th.bing.com/th/id/OIP.6qWCs4ZxoFj3rCInW9uuoAHaHa?w=194&h=194&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 15,
+        "name": "Women's Classic Leather Handbag",
+        "category": "Women's Accessories",
+        "price": 79.99,
+        "rating": 4.7,
+        "image": "https://th.bing.com/th/id/OIP.eNGbDNNEA5PEVXvh4eON_QHaHa?w=211&h=211&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 16,
+        "name": "Men's Active Jogger Pants",
+        "category": "Men's Bottoms",
+        "price": 39.99,
+        "rating": 4.4,
+        "image": "https://th.bing.com/th/id/OIP.tcgomZJewf7M3viQBr7YEQHaJ4?w=186&h=248&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 17,
+        "name": "Women's Beach Sandals",
+        "category": "Footwear",
+        "price": 24.99,
+        "rating": 4.6,
+        "image": "https://th.bing.com/th/id/OIP.lAWZ9ZzQ_2omhMjuFVumhgHaHa?w=190&h=190&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 18,
+        "name": "Kids' Pajama Set",
+        "category": "Kids' Sleepwear",
+        "price": 29.99,
+        "rating": 4.8,
+        "image": "https://th.bing.com/th/id/OIP.nPNhcPB8eLRuvv1Yum30gQHaJl?w=170&h=220&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 19,
+        "name": "Men's Lightweight Hoodie",
+        "category": "Men's Sweaters",
+        "price": 49.99,
+        "rating": 4.5,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 20,
+        "name": "Women's Running Shorts",
+        "category": "Women's Bottoms",
+        "price": 19.99,
+        "rating": 4.2,
+        "image": "https://th.bing.com/th/id/OIP.ebMvx4g7K8OtZGI_uHPnpwHaKi?w=186&h=265&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 21,
+        "name": "Men's Running Shorts",
+        "category": "Men's Bottoms",
+        "price": 24.99,
+        "rating": 4.5,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 22,
+        "name": "Women's Yoga Leggings",
+        "category": "Women's Bottoms",
+        "price": 29.99,
+        "rating": 4.7,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 23,
+        "name": "Men's Training Shoes",
+        "category": "Men's Footwear",
+        "price": 59.99,
+        "rating": 4.3,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 24,
+        "name": "Women's Running Jacket",
+        "category": "Women's Outerwear",
+        "price": 39.99,
+        "rating": 4.6,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 25,
+        "name": "Men's Basketball Shorts",
+        "category": "Men's Bottoms",
+        "price": 21.99,
+        "rating": 4.0,
+        "image":"https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 26,
+        "name": "Women's Sports Bra",
+        "category": "Women's Activewear",
+        "price": 17.99,
+        "rating": 4.8,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 27,
+        "name": "Men's Running Shoes",
+        "category": "Men's Footwear",
+        "price":55.0,
+        "image":"https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 28,
+        "name": "Women's Training Shorts",
+        "category": "Women's Bottoms",
+        "price": 22.99,
+        "rating": 4.1,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 29,
+        "name": "Men's Gym Tank Top",
+        "category": "Men's Activewear",
+        "price": 14.99,
+        "rating": 4.9,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 30,
+        "name": "Women's Running Shoes",
+        "category": "Women's Footwear",
+        "price": 49.99,
+        "rating": 4.3,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 31,
+        "name": "Men's Track Pants",
+        "category": "Men's Bottoms",
+        "price": 31.99,
+        "rating": 4.7,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 32,
+        "name": "Women's Hooded Sweatshirt",
+        "category": "Women's Outerwear",
+        "price": 44.99,
+        "rating": 4.5,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 33,
+        "name": "Men's Soccer Jersey",
+        "category": "Men's Activewear",
+        "price": 19.99,
+        "rating": 4.0,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 34,
+        "name": "Women's Tennis Skirt",
+        "category": "Women's Bottoms",
+        "price": 26.99,
+        "rating": 4.6,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 35,
+        "name": "Men's Running Jacket",
+        "category": "Men's Outerwear",
+        "price": 37.99,
+        "rating": 4.2,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 36,
+        "name": "Women's Sports Jacket",
+        "category": "Women's Outerwear",
+        "price": 41.99,
+        "rating": 4.8,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 37,
+        "name": "Men's Basketball Shoes",
+        "category": "Men's Footwear",
+        "price": 64.99,
+        "rating": 4.3,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 38,
+        "name": "Women's Hiking Boots",
+        "category": "Women's Footwear",
+        "price": 74.99,
+        "rating": 4.5,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 39,
+        "name": "Men's Cycling Shorts",
+        "category": "Men's Bottoms",
+        "price": 28.99,
+        "rating": 4.1,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 40,
+        "name": "Women's Golf Polo",
+        "category": "Women's Activewear",
+        "price": 32.99,
+        "rating": 4.4,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 41,
+        "name": "Men's Weightlifting Gloves",
+        "category": "Men's Accessories",
+        "price": 14.99,
+        "rating": 4.7,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 42,
+        "name": "Women's Running Tank Top",
+        "category": "Women's Activewear",
+        "price": 18.99,
+        "rating": 4.3,
+        "image":"https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 43,
+        "name": "Men's Ski Jacket",
+        "category": "Men's Outerwear",
+        "price": 79.99,
+        "rating": 4.6,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 44,
+        "name": "Women's Tennis Shoes",
+        "category": "Women's Footwear",
+        "price": 54.99,
+        "rating": 4.2,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 45,
+        "name": "Men's Golf Polo",
+        "category": "Men's Activewear",
+        "price": 36.99,
+        "rating": 4.8,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 46,
+        "name": "Women's Cycling Shorts",
+        "category": "Women's Bottoms",
+        "price": 26.99,
+        "rating": 4.5,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 47,
+        "name": "Men's Baseball Cap",
+        "category": "Men's Accessories",
+        "price": 9.99,
+        "rating": 4.1,
+        "image":"https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 48,
+        "name": "Women's Ski Jacket",
+        "category": "Women's Outerwear",
+        "price": 69.99,
+        "rating": 4.7,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 49,
+        "name": "Men's Running Tights",
+        "category": "Men's Bottoms",
+        "price": 32.99,
+        "rating": 4.3,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 50,
+        "name": "Women's Basketball Shoes",
+        "category": "Women's Footwear",
+        "price": 59.99,
+        "rating": 4.6,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 51,
+        "name": "Men's Tennis Shorts",
+        "category": "Men's Bottoms",
+        "price": 21.99,
+        "rating": 4.2,
+        "image": "https://th.bing.com/th/id/OIP.C-hXif04MIl1mIAbzcj8NQHaMe?w=186&h=314&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      }
+
+
+    ]
+  }
+  
